@@ -1,6 +1,0 @@
-Booking Number: 35627
-Customer Name: Jaakko Oja
-Room Number: 77
-Nights: 4
-Total Cost: 480 euros
-------------------------
