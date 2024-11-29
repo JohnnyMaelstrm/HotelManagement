@@ -1,4 +1,4 @@
 #HotelManagement
-Hotelmanagement-code that i wrote in C++-coding course.
+This C++ program is designed to manage hotel reservations with a simple and user-friendly approach. Users can choose between a single-person or double-person hotel room and specify a room number for their booking. Reservations are recorded with the guest's name, the room number, and the number of nights they plan to stay. The program then calculates and displays the total cost of the reservation.
 
-The program lets you choose either one person hotel room or two person room. You can choose a room number. The reservation are made by name, hotel room number and by nights. Then the program will inform you the exact cost for the reservation. When you have made the reservation, you can search your reservation ( or someone else) by the name on the reservation. Very simple program. Nothing too complex. 
+Once a reservation is made, users can search for it by the guest's name, making it easy to retrieve booking details. The program focuses on simplicity and efficiency, offering a straightforward solution for basic hotel reservation needs.
